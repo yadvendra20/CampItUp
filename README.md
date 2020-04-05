@@ -1,2 +1,0 @@
-# CampItUp
-Campground rating application
