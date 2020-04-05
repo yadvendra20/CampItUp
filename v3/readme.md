@@ -1,4 +1,4 @@
-# Yelpcamp
+# CampItUp
 
 ## Initial Setup
 * Add Landing page
